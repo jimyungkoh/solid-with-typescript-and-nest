@@ -23,6 +23,7 @@ class Fish extends Animal {
 }
 ```
 ```typescript
+// after
 class Animal {
   public move(): void {
     console.log("Animal can move");
