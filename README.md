@@ -1,4 +1,5 @@
 # solid-with-typescript-and-nest
+[목차 보기](https://github.com/jimyungkoh/solid-with-typescript-and-nest)
 ## 개방-폐쇄 원칙 (Open/closed principle)
 - 소프트웨어 개체는 확장에 대해 열려 있어야 하고, 수정에 대해서는 닫혀 있어야 한다.
 - 다형성을 활용해 인터페이스(역할)를 구현한 새로운 클래스(구현체)를 만들어 새로운 기능을 구현하면 개방 폐쇄 원칙을 준수할 수 있다.
