@@ -1,4 +1,5 @@
 # solid-with-typescript-and-nest
+**[목차 보기](https://github.com/jimyungkoh/solid-with-typescript-and-nest)**
 ## 인터페이스 분리 원칙 (Interface segregation principle)
 - 특정 클라이언트를 위한 인터페이스 여러 개가 범용 인터페이스 하나보다 낫다.
 - 인터페이스를 분리하면 인터페이스의 역할이 분명해지고 대체 가능성이 높아진다.
