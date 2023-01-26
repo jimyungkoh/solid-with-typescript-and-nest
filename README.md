@@ -1,4 +1,5 @@
 # solid-with-typescript-and-nest
+**[목차 보기](https://github.com/jimyungkoh/solid-with-typescript-and-nest)**
 ## 의존관계 역전 원칙 (Dependency inversion principle)
 - 의존관계 역전 원칙은 "추상화에 의존해야지 구체화에 의존하면 안된다"는 원칙이다.
 - 즉, 구현 클래스에 의존하는 것이 아닌 인터페이스에 의존해야 한다는 얘기다.
